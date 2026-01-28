@@ -1,1 +1,5 @@
-# Dsp-Image-Filter code
+# Dsp-Image-Filter-Overview‏
+A complete GUI application for applying various visual filters to images. Users can load any image and choose from 9 different filters including warm, cool, contrast, black & white, blur, and vivid effects. The interface displays both original and filtered images side-by-side with real-time preview. The application handles image processing operations like color channel adjustments, brightness/contrast enhancement, saturation control, and special effects - all through an intuitive modern interface with save/reset functionality.
+
+# Dsp-Sound-Filter-Overview‏
+An intelligent audio processing tool that automatically detects audio files in a directory and removes background noise. The system samples the first portion of audio as a noise profile, then applies advanced noise reduction algorithms to clean the entire recording while preserving voice quality. It supports multiple audio formats and provides detailed processing reports. The solution demonstrates practical DSP implementation for real-world audio enhancement needs.
